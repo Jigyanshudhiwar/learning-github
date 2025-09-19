@@ -1,3 +1,3 @@
 # learning-github
-this is my first git repo
-madde by Jigyanshu
+this is my first git repo <br>
+made by Jigyanshu
